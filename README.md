@@ -1,2 +1,2 @@
 # Android-Ioc
-Android Ioc学习，基于编译时注解
+Android Ioc学习，基于运行时注解
