@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android_Ioc_Demo</string>
+    <string name="btn_text">按钮</string>
+</resources>
